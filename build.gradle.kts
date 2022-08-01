@@ -13,5 +13,5 @@ dependencies {
 }
 
 apollo {
-  packageName.set("com.example")
+  useVersion2Compat()
 }
